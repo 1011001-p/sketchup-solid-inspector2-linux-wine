@@ -11,4 +11,4 @@
 
 ## Usage
 
-Once installed, the STL export functionality will be available in SketchUp's menu system.
+Once installed, the solid inspector 2 will be available in SketchUp's menu system.
