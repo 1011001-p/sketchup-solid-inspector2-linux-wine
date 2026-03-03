@@ -1,5 +1,9 @@
 # SketchUp Solid Inspector 2 for Linux Wine
 
+## Why I made this
+I finally moved my last computer from windows to Linux, but SketchUp is the last program I needed to migrate from to finally free myself from Windows.
+I realized there is nothing like SketchUp out there: not a single program combines the simplicity and fast prototyping of SketchUp. So instead of switching I decided to fix what's broken on Wine: the extensions. This is one of them.
+
 ## Installation
 
 1. **Download the RBZ file** from the releases section
